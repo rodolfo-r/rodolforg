@@ -1,0 +1,8 @@
+baseURL = "http://blog.rodolforg.com/"
+languageCode = "en-us"
+title = "Rodolfo Rodriguez"
+theme="basics"
+
+[params]
+  github = "rodolfo-r"
+
